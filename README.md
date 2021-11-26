@@ -1,5 +1,10 @@
 # Deploy Shiny Apps to Fly.io
 
+This repository is an appendix to [Fly related posts on the Hosting Data Apps website](https://hosting.analythium.io/tag/fly/):
+
+- [Make Your Shiny App Fly](https://hosting.analythium.io/make-your-shiny-app-fly/)
+- [Auto-scaling Shiny Apps in Multiple Regions with Fly.io](https://hosting.analythium.io/auto-scaling-shiny-apps-in-multiple-regions-with-fly-io/)
+
 ## What is Fly
 
 > Deploy App Servers Close to Your Users
