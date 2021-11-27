@@ -66,6 +66,10 @@ flyctl status
 
 Copy the Hostname and paste in the browser tab, or use `flyctl open`.
 
+## CICD and GitHub Actions
+
+See the `.github/workflows/main.yml` file for an example.
+
 ## Resources
 
 - [Continuous Deployment with Fly and GitHub Actions](https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/)
